@@ -1,0 +1,15 @@
+/workspaces/spring-mvc/bin/Debug/net7.0/spring-mvc
+/workspaces/spring-mvc/bin/Debug/net7.0/spring-mvc.deps.json
+/workspaces/spring-mvc/bin/Debug/net7.0/spring-mvc.runtimeconfig.json
+/workspaces/spring-mvc/bin/Debug/net7.0/spring-mvc.dll
+/workspaces/spring-mvc/bin/Debug/net7.0/spring-mvc.pdb
+/workspaces/spring-mvc/obj/Debug/net7.0/spring-mvc.csproj.AssemblyReference.cache
+/workspaces/spring-mvc/obj/Debug/net7.0/spring-mvc.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/spring-mvc/obj/Debug/net7.0/spring-mvc.AssemblyInfoInputs.cache
+/workspaces/spring-mvc/obj/Debug/net7.0/spring-mvc.AssemblyInfo.cs
+/workspaces/spring-mvc/obj/Debug/net7.0/spring-mvc.csproj.CoreCompileInputs.cache
+/workspaces/spring-mvc/obj/Debug/net7.0/spring-mvc.dll
+/workspaces/spring-mvc/obj/Debug/net7.0/refint/spring-mvc.dll
+/workspaces/spring-mvc/obj/Debug/net7.0/spring-mvc.pdb
+/workspaces/spring-mvc/obj/Debug/net7.0/spring-mvc.genruntimeconfig.cache
+/workspaces/spring-mvc/obj/Debug/net7.0/ref/spring-mvc.dll
